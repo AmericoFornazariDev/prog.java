@@ -1,5 +1,7 @@
 import java.util.Scanner;
 import modelo.entidades.Jogo;
+import java.text.NumberFormat;
+import java.util.Locale;
 
 /**
  * Cria uma instância do jogo com entre 2 e 4 jogadores.
